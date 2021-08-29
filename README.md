@@ -6,7 +6,7 @@ MATLAB-based script for estimation of left ventricular volume from 2D cardiac ul
 - MATLAB with standard toolboxes
 - 2D Cardiac ultrasound video in mov format (MATLAB versions after 2017a on macOS no longer support .avi format)
 
-Prior to running lvent.m ensure that videos are located in the accompanying directory with proper naming format.
+Prior to running LVent.m ensure that videos are located in the accompanying directory with proper naming format.
 Sample ultrasound videos are provided as follows:
 Ultrasound videos: /left-ventricular-volume-estimation/[Sample Name].mov
 
@@ -15,7 +15,7 @@ For example: /left-ventricular-volume-estimation/Apical4chVolunteer.mov
 
 
 ## Pipeline
-1. Initialize the process by running lvent.m
+1. Initialize the process by running LVent.m
     * A prompt will appear displaying instructions
     * ![](./images/welcome.png) 
    
