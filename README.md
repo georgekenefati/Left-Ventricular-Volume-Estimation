@@ -1,5 +1,6 @@
 # left-ventricular-volume-estimation
 MATLAB-based script for estimation of left ventricular volume from 2D cardiac ultrasound
+![](./images/long-axis.png) 
 
 ## Requirements
 - MATLAB with standard toolboxes
@@ -16,17 +17,20 @@ For example: /left-ventricular-volume-estimation/Apical4chVolunteer.mov
 ## Pipeline
 1. Initialize the process by running lvent.m
     * A prompt will appear displaying instructions
-    ![]
+    * ![](./images/welcome.png) 
    
    
 2. Identify desired end diastole volume (EDV) and end systole volume (ESV) frames
     * Use the movie player window to play and pause the cardiac ultrasound video
+    * ![](./images/player.png) 
     * Exit the movie player and type in the frame numbers
+    * ![](./images/frame_selection.png) 
+    
     
     
 3. Draw the left-ventricle axes in both of the selected frames
     * Click and drag the two points of the floating line to the endocardial layers of the left ventricle
-
+    * ![](./images/line_draw.png) 
 
 4. Automatic pixel to centimeter distance conversion
 
