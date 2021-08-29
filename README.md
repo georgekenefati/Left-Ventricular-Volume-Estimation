@@ -70,5 +70,5 @@ MEASURED VALUES COMPARED TO CLINICAL VALUES:
 The measured stroke volume is within 2.6% of the clinical value. The measured ejection fraction is within 0.34% of the clinical value. The measured cardiac output is within 2.6% of the clinical value.
 ```
 
-## Acknowledgement
-* Biomedical Engineering Department, School of Engineering and Applied Science, Columbia University, New York, NY
+## Acknowledgements
+* Ultrasound Elasticity Imaging Laboratory, Biomedical Engineering Department, School of Engineering and Applied Science, Columbia University, New York, NY
